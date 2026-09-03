@@ -1,15 +1,17 @@
 about:
-  description: Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
+  description:
+  |
+    Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
   license: MIT
   homepage: 
   head: 26282cb
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-03T05:10:03Z
+  collectedAt: 2026-09-03T22:38:55Z
 timeline:
   created: 2017-03-09
   lastCommit: 2021-09-03
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 671
   watcher: 12
@@ -22,7 +24,7 @@ language:
   Python: 50885
   Shell: 6850
   Makefile: 2402
-totalLine: 60137
+totalBytes: 60137
 recent:
   last30d:
     since: 2026-08-04
